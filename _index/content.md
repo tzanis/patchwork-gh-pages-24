@@ -1,7 +1,7 @@
 ---
-profileimage: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAVeAAAAJGFmNmZkZWUwLWYxOTMtNGIyMC05OWJlLTJmZjhhN2UxNGQyYQ.jpg"
-name: "Adrian M Ryan"
-title: "Education Consultant"
+profileimage: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/2/000/1c8/331/25b90f7.jpg"
+name: "Palioudakis Tzanis"
+title: "Yo!"
 ---
 
 #### *Adrian is a product manager with 5 years experience building both digital and offline education products.*
